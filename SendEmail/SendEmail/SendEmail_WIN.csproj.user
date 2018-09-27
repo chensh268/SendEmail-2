@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\ISIGGOMA-PC\Deployment\SendEmail\|C:\Deployment\SendEmail\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\UserLabo\VirtualBoxPartage\|\\isiggoma\UserLabo\</InstallUrlHistory>
+    <SupportUrlHistory>\\ISIGGOMA-PC\Deployment\SendEmail</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

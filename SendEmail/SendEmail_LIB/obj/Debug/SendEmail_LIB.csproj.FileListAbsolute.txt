@@ -1,0 +1,17 @@
+E:\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\SendEmail_LIB.dll
+E:\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\SendEmail_LIB.pdb
+E:\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\CryptageJosam_LIB.dll
+E:\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\ResolveAssemblyReference.cache
+E:\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\SendEmail_LIB.dll
+E:\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\SendEmail_LIB.pdb
+E:\TestUpdatePub\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\SendEmail_LIB.dll
+E:\TestUpdatePub\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\SendEmail_LIB.pdb
+E:\TestUpdatePub\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\CryptageJosam_LIB.dll
+E:\TestUpdatePub\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\ResolveAssemblyReference.cache
+E:\TestUpdatePub\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\SendEmail_LIB.dll
+E:\TestUpdatePub\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\SendEmail_LIB.pdb
+E:\DOC\Bu_ISIG\CODES\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\SendEmail_LIB.dll
+E:\DOC\Bu_ISIG\CODES\Gestion_Email\SendEmail\SendEmail_LIB\bin\Debug\SendEmail_LIB.pdb
+E:\DOC\Bu_ISIG\CODES\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\ResolveAssemblyReference.cache
+E:\DOC\Bu_ISIG\CODES\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\SendEmail_LIB.dll
+E:\DOC\Bu_ISIG\CODES\Gestion_Email\SendEmail\SendEmail_LIB\obj\Debug\SendEmail_LIB.pdb
